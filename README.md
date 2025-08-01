@@ -82,6 +82,9 @@ docker-compose build
 docker-compose up
 ```
 
+## Guía
+https://www.youtube.com/watch?v=3ftI26leOzA
+
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
